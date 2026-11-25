@@ -1,0 +1,22 @@
+[
+ {"id":101,"cat":"holdout","turns":["what's the return period"],"expect":"answer","contains":["30 days"]},
+ {"id":102,"cat":"holdout","turns":["how many days until my refund shows up"],"expect":"answer","contains":["5 to 7"]},
+ {"id":103,"cat":"holdout","turns":["is shipping to Germany possible"],"expect":"answer","contains":["not available"]},
+ {"id":104,"cat":"holdout","turns":["do you take Apple Pay"],"expect":"answer","contains":["Apple Pay"]},
+ {"id":105,"cat":"holdout","turns":["how much does express delivery cost"],"expect":"answer","contains":["14 USD"]},
+ {"id":106,"cat":"holdout","turns":["can I get my money back for a sale item"],"expect":"handoff"},
+ {"id":107,"cat":"holdout","turns":["what's the warranty on the smartwatch"],"expect":"answer","contains":["1 year"]},
+ {"id":108,"cat":"holdout","turns":["do you ship to Mexico"],"expect":"answer","contains":["not available"]},
+ {"id":109,"cat":"holdout","turns":["can I return opened gift cards"],"expect":"answer","contains":["cannot be returned"]},
+ {"id":110,"cat":"holdout","turns":["how long does express shipping take"],"expect":"answer","contains":["1 to 2"]},
+ {"id":111,"cat":"holdout","turns":["is the monitor in stock"],"expect":"answer","contains":["In stock"]},
+ {"id":112,"cat":"holdout","turns":["how do I contact your CEO"],"expect":"handoff"},
+ {"id":113,"cat":"holdout","turns":["do you accept cash on delivery"],"expect":"answer","contains":["do not accept cash"]},
+ {"id":114,"cat":"holdout","turns":["does the warranty cover accidental damage"],"expect":"answer","contains":["does not cover"]},
+ {"id":115,"cat":"holdout","turns":["my parcel has not arrived, where is it"],"expect":"clarify"},
+ {"id":116,"cat":"holdout","turns":["can I pay in bitcoin"],"expect":"answer","contains":["cryptocurrency"]},
+ {"id":117,"cat":"holdout","turns":["can I buy a gift card"],"expect":"handoff"},
+ {"id":118,"cat":"holdout","turns":["what is the price of the monitor"],"expect":"answer","contains":["329"]},
+ {"id":119,"cat":"holdout","turns":["what happens if my package is lost"],"expect":"handoff"},
+ {"id":120,"cat":"holdout","turns":["can I cancel my order once it has shipped"],"expect":"answer","contains":["cannot be cancelled"]}
+]
